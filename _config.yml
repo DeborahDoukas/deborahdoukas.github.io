@@ -27,7 +27,7 @@ author:
   name             : "Deborah Doukas"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
-  location         : # "Earth"
+  # location         : # "Earth"
   employer         : "Cornell University"
   uri              : # URL
   email            : # "none@example.org" 
