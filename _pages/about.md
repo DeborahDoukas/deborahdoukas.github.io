@@ -11,6 +11,6 @@ I am a sixth-year Ph.D. candidate in Economics at Cornell University. My researc
 
 I am on the 2026-2027 job market.
 
-[Download my CV](/files/cv.pdf)
+Please see my CV [here](/files/CV_website_deborah_doukas.pdf)
 
 
