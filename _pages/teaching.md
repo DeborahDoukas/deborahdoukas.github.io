@@ -4,30 +4,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## CORNELL UNIVERSITY
+## Cornell University
 
-**ECON 1110: Introductory Microeconomics**
+**ECON 4660: Behavioral Economics**
 
-Fall 2023, Spring 2024 — Instructor: [Professor Name](https://theirsite.com)
-
-One-line description of what the course covers.
+Fall 2026 — Instructor: [Professor Ted O’Donoghue]([https://theirsite.com](https://blogs.cornell.edu/odonoghue)
 
 **ECON 3130: Econometrics**
 
 Spring 2025 — Instructor: Professor Name
 
-One-line description of what the course covers.
+## Getulio Vargas Foundation - FGV EPGE
 
-## FGV
+**Introduction to Economics**
 
-**Course Name**
+February 2021 - June 2021 — Instructor: Professor Renato Fragelli Cardoso
 
-Semester/Year — Instructor: Professor Name
+**Economic Development**
 
-One-line description of what the course covers.
+August 2020 - December 2020 — Instructor: Professor Fernando Veloso
 
-## TEACHING AWARDS
+## Teaching Awards
 
-**Award Name**
+**Howard and Abby Milstein Graduate Teaching Award**
 
-Cornell University, 2024
+Cornell University, Fall 2023
