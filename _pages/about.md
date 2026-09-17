@@ -9,4 +9,6 @@ redirect_from:
 
 To be done.
 
+[Download my CV](/files/cv.pdf)
+
 
