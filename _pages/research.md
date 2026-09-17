@@ -1,0 +1,50 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+**Working Papers**
+
+1. **[Rank vs Money: Evidence from Managers](/files/your-paper.pdf)**
+
+    with [Collin Raymond](https://sites.google.com/site/collinbraymond/home) and [Julia Shvets](https://www.juliashvets.com)
+
+    <details>
+    <summary>Abstract</summary>
+    We study the existence and relative importance of status concerns compared to financial incentives among managers in a large firm where the bonus is determined through a high powered tournament. Using detailed data about
+both performance and labour input decisions, we consider managers’ response to feedback about their rank as well as monetary bonuses. We find that managers exhibit rank concerns that are distinct from, but co-exist with, financial
+performance incentives. These rank concerns are important: moving from the bottom to the top of the firm’s ranking is worth up to $4,500 a year to the average manager, or 48% of their annual performance bonus. Moreover, managers
+exhibit desire to catch up (i.e., utility is concave in rank): when managers get a bad rank they respond by improving performance, rather than getting discouraged. Our data allow us to identify these effects using both outputs
+(performance) as well as inputs (staffing decisions) of the managers.
+    </details>
+
+2. **[Second Paper Title](/files/second-paper.pdf)**
+
+    Solo-authored papers just skip the "with" line entirely.
+
+    <details>
+    <summary>Abstract</summary>
+    Abstract text for the second paper.
+    </details>
+
+<!--
+## Publications
+
+1. **[Published Paper Title](link-to-paper)**
+
+    with [Co-Author](https://coauthorsite.com)
+
+    *Journal Name* 2026, Volume: pages
+-->
+
+**Work in Progress**
+
+1. **Project Title (no draft link yet)**
+
+    with [Co-Author](https://coauthorsite.com)
+
+    <details>
+    <summary>Abstract</summary>
+    Short abstract or one-line description of where this project stands.
+    </details>
