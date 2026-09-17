@@ -24,17 +24,8 @@ author_profile: true
 
 
 <!--
-## Publications
-
-1. **[Published Paper Title](link-to-paper)**
-
-    with [Co-Author](https://coauthorsite.com)
-
-    *Journal Name* 2026, Volume: pages
--->
-
 **Work in Progress**
-<!--
+
 1. **Project Title (no draft link yet)**
 
     with [Co-Author](https://coauthorsite.com)
@@ -43,4 +34,12 @@ author_profile: true
     <summary>Abstract</summary>
     Short abstract or one-line description of where this project stands.
     </details>
+    
+**Publications**
+
+1. **[Published Paper Title](link-to-paper)**
+
+    with [Co-Author](https://coauthorsite.com)
+
+    *Journal Name* 2026, Volume: pages
   -->  
