@@ -10,7 +10,7 @@ author_profile: true
    
    <details>
     <summary>Abstract</summary>
-    The recent job search literature has addressed how job attributes influence candidates’ application decisions. However, there is little evidence about how job candidates respond to the number of openings available for each position and their chances of getting the job. This project identifies the impact of the candidates’ probability of being matched with a certain job and the number of openings available for a particular position on job candidates’ preferences. I use administrative data on job preferences elicited (in an incentive-compatible way) from a sample of high-performing job applicants who take centralized civil service exams and public bodies’ official job descriptions to estimate the willingness-to-pay (WTP) for a higher probability of being matched with and for a higher number of openings in a specific job posting. I leverage quasi-experimental variation from individuals’ exam scores and methods from the school choice literature to construct instruments for an individual’s probability of being matched to each job. To estimate the WTP, I use the revealed preferences from the candidates and develop an estimation procedure that preserves the order of the rank-ordered lists and addresses censoring issues in the data. This approach allows me to separate the effects of chances of being matched and the number of openings and compute how much money job applicants are willing to pay, on average, for a position with a larger number of openings and higher chances of being matched. I find that candidates with high exam scores prefer jobs that they are more likely to get and have more openings, which indicates that the effects of the two characteristics move in the same direction for top-performing candidates in a high-stakes environment and are consistent with a competition avoidance mechanism.
+    I document that job seekers have intrinsic preferences over the competitiveness of getting the job positions they apply for in a high-stakes, real-world setting. I do this by leveraging a unique natural setting in Brazil where job applicants apply for government positions using a Deferred Acceptance Algorithm. Because the algorithm is incentive compatible, applicants’ rankings of positions should reflect the positions' competitiveness only through their true preferences. I estimate these preferences using two measures: the probability that each candidate is matched with a certain job and the number of openings available for a particular position. My estimates imply that high-performing candidates are willing to pay, on average, 3.6 to 5.7 percent of the earnings provided by a job posting to increase their matching probability by 10 percentage points and 0.2 to 2.3 percent to have 10 additional openings in a job posting. These results suggest that application procedures reveal a desire to avoid competitive job positions not only due to application costs, but also because individuals have direct preferences over the difficulty of obtaining a job.
     </details>
 
 1. **[Rank vs Money: Evidence from Managers](/files/your-paper.pdf)**
@@ -23,18 +23,18 @@ author_profile: true
     </details>
 
 
-<!--
+
 **Work in Progress**
 
-1. **Project Title (no draft link yet)**
+1. **The Price of Liquidity: The Welfare effects of early access to Mandatory Severance Savings**
 
-    with [Co-Author](https://coauthorsite.com)
-
+    with [João von Montfort Kling] (draft available soon!)
+<!-- 
     <details>
     <summary>Abstract</summary>
     Short abstract or one-line description of where this project stands.
     </details>
-    
+   
 **Publications**
 
 1. **[Published Paper Title](link-to-paper)**
