@@ -6,7 +6,7 @@ author_profile: true
 
 **Working Papers**
 
-1. **[How much are candidates willing to pay for more openings and higher chances of getting the job? Evidence from Civil Service Exams](/files/paper-name.pdf)**
+1. **[How much are candidates willing to pay for more openings and higher chances of getting the job? Evidence from Civil Service Exams](/files/deborah_doukas_civil_service_exams.pdf)**
    
    <details>
     <summary>Abstract</summary>
