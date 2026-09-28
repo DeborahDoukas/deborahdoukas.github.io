@@ -6,14 +6,14 @@ author_profile: true
 
 **Working Papers**
 
-1. **[How much are candidates willing to pay for more openings and higher chances of getting the job? Evidence from Civil Service Exams](/files/rank_vs_money_drs.pdf)**
+1. **[How much are candidates willing to pay for more openings and higher chances of getting the job? Evidence from Civil Service Exams](/files/paper-name.pdf)**
    
    <details>
     <summary>Abstract</summary>
     I document that job seekers have intrinsic preferences over the competitiveness of getting the job positions they apply for in a high-stakes, real-world setting. I do this by leveraging a unique natural setting in Brazil where job applicants apply for government positions using a Deferred Acceptance Algorithm. Because the algorithm is incentive compatible, applicants’ rankings of positions should reflect the positions' competitiveness only through their true preferences. I estimate these preferences using two measures: the probability that each candidate is matched with a certain job and the number of openings available for a particular position. My estimates imply that high-performing candidates are willing to pay, on average, 3.6 to 5.7 percent of the earnings provided by a job posting to increase their matching probability by 10 percentage points and 0.2 to 2.3 percent to have 10 additional openings in a job posting. These results suggest that application procedures reveal a desire to avoid competitive job positions not only due to application costs, but also because individuals have direct preferences over the difficulty of obtaining a job.
     </details>
 
-1. **[Rank vs Money: Evidence from Managers](/files/your-paper.pdf)**
+1. **[Rank vs Money: Evidence from Managers](/files/rank_vs_money_drs.pdf)**
 
     with [Collin Raymond](https://sites.google.com/site/collinbraymond/home) and [Julia Shvets](https://www.juliashvets.com)
 
