@@ -28,13 +28,9 @@ author_profile: true
 
 1. **The Price of Liquidity: The Welfare effects of early access to Mandatory Severance Savings**
 
-    with [João von Montfort Kling] (draft available soon!)
-<!-- 
-    <details>
-    <summary>Abstract</summary>
-    Short abstract or one-line description of where this project stands.
-    </details>
+    with João von Montfort Kling (draft available soon!)
    
+<!--   
 **Publications**
 
 1. **[Published Paper Title](link-to-paper)**
