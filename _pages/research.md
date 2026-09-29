@@ -15,7 +15,7 @@ author_profile: true
 
 1. **[Rank vs Money: Evidence from Managers](/files/rank_vs_money_drs.pdf)**
 
-    with [Collin Raymond](https://sites.google.com/site/collinbraymond/home) and [Julia Shvets](https://www.juliashvets.com)
+    with [Collin Raymond](https://sites.google.com/site/collinbraymond/home) and [Julia Shvets](https://www.juliashvets.com) (new draft available soon!)
 
     <details>
     <summary>Abstract</summary>
@@ -28,7 +28,7 @@ author_profile: true
 
 1. **The Price of Liquidity: The Welfare effects of early access to Mandatory Severance Savings**
 
-    with João von Montfort Kling (draft available soon!)
+    with João von Montfort Kling 
    
 <!--   
 **Publications**
