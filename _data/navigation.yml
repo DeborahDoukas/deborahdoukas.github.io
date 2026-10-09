@@ -12,24 +12,7 @@ main:
     url: /
   - title: "Research"
     url: /research/
-
- # - title: "Talks"
- #   url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
- # - title: "CV"
- #   url: /cv/
-    
-   - title: "CV"
-     url: /files/CV_website_deborah_doukas.pdf
-    
- # - title: "Guide"
- #   url: /markdown/
+    url: /teaching/
+  - title: "CV"
+    url: /files/CV_website_deborah_doukas.pdf
