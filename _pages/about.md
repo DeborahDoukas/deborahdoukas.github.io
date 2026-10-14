@@ -11,7 +11,7 @@ I am a sixth-year Ph.D. candidate in Economics at Cornell University. My researc
 
 I am on the 2026-2027 job market.
 
-I will be presenting my job market paper at the ASSA meetings in Washington, DC, in January 2027, and will be available for interviews.
+I will be presenting my job market paper at the ASSA meetings in Washington, DC, in January 2027.
 
 Please see my CV [here](/files/CV_website_deborah_doukas.pdf).
 
